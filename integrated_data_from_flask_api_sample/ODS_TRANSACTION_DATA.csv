@@ -1,0 +1,52 @@
+﻿8d8c8a39-b21d-4c1d-90cf-012ecbb62d39;20250313;Trade;Sample Bank;Sample Location;UnknownCurrency;Sample Corporation;UNKNOWN;0;1;1;54952,26;2025-03-13 10:23:58.780;2025-03-13 13:23:58.883
+4efb89e5-5e02-4e17-93d9-d367ff9ae1b7;20250313;Trade;Sample Bank;Sample Location;UnknownCurrency;Sample Corporation;Derivatives;0;1;1;74356,32;2025-03-13 11:35:40.773;2025-03-13 14:35:41.360
+1aa66d16-1b2b-4665-b60f-0c5b2c407be4;20250313;Settlement;Sample Bank;Sample Location;UnknownCurrency;Sample Corporation;Fixed Income;0;1;1;28300,69;2025-03-13 11:35:50.997;2025-03-13 14:35:51.127
+ad30a55f-7f9a-41bf-8f80-5b1d5e226b55;20250313;Trade;Sample Bank;Sample Location;GBP;Sample Corporation;Derivatives;0;1;1;85464,27;2025-03-13 11:58:46.993;2025-03-13 14:58:47.447
+7a29981b-a885-4cb2-99f3-0cba44071410;20250313;Trade;Sample Bank;Sample Location;GBP;Sample Corporation;Fixed Income;0;1;1;81574,81;2025-03-13 12:23:18.800;2025-03-13 15:23:19.167
+09686c5d-41b2-41b4-afa9-ac6d94d4c71a;20250313;Order Update;Sample Bank;Sample Location;EUR;Sample Corporation;Derivatives;0;1;1;90577,57;2025-03-13 12:26:24.437;2025-03-13 15:26:24.943
+c80e4047-c084-4fb3-aa87-7b6b8021a42c;20250313;Trade;Sample Bank;Sample Location;GBP;Sample Corporation;UNKNOWN;0;1;1;89445,98;2025-03-13 12:51:44.103;2025-03-13 15:51:44.327
+970b388c-0a0d-44df-b6ce-7b2336c060ac;20250314;Settlement;Sample Bank;Sample Location;UnknownCurrency;Sample Corporation;UNKNOWN;0;1;1;91658,31;2025-03-14 06:02:39.297;2025-03-14 09:02:39.750
+4a32bc18-fd8c-4a9b-85c5-81c26181ade9;20250314;Order Update;Sample Bank;Sample Location;EUR;Sample Corporation;Derivatives;0;1;1;63807,95;2025-03-14 06:08:50.647;2025-03-14 09:08:50.913
+34bded46-9ff6-40c7-b480-c60e314e77b0;20250314;Trade;Sample Bank;Sample Location;UnknownCurrency;Sample Corporation;Equity;0;1;1;86989,69;2025-03-14 06:08:54.350;2025-03-14 09:08:54.450
+a7e80c7c-5854-4b29-9969-844f30be77bc;20250314;Order Update;Sample Bank;Sample Location;UnknownCurrency;Sample Corporation;Fixed Income;0;1;1;17619,18;2025-03-14 06:08:56.563;2025-03-14 09:08:56.650
+c2bdf6a3-1834-4b87-a5b3-4af07bc359d5;20250314;Settlement;Sample Bank;Sample Location;JPY;Sample Corporation;Derivatives;0;1;1;96801,48;2025-03-14 06:08:58.637;2025-03-14 09:08:58.730
+9b855ee9-e3d0-4387-96aa-3c390995a56b;20250314;Trade;Sample Bank;Sample Location;USD;Sample Corporation;Fixed Income;0;1;1;38996,59;2025-03-14 06:09:01.000;2025-03-14 09:09:01.087
+8de2be19-377a-4ae5-a440-5cb5ae7fba58;20250314;Settlement;Sample Bank;Sample Location;UnknownCurrency;Sample Corporation;UNKNOWN;0;1;1;17227,69;2025-03-14 06:09:03.140;2025-03-14 09:09:03.253
+5f442c6d-fe41-48fa-ab29-934e104c4481;20250315;Settlement;Sample Bank;Sample Location;UnknownCurrency;Sample Corporation;Derivatives;0;1;1;84577,57;2025-03-15 09:44:36.447;2025-03-15 12:44:38.040
+7ffac029-c53d-4431-8a85-5a86a37d4660;20250315;Order Update;Sample Bank;Sample Location;EUR;Sample Corporation;Fixed Income;0;1;1;50233,67;2025-03-15 09:46:33.280;2025-03-15 12:46:34.573
+1f3572e6-37e6-4ba1-831a-2a5e802e707d;20250316;Settlement;Sample Bank;Sample Location;JPY;Sample Corporation;UNKNOWN;0;1;1;22616,48;2025-03-16 06:29:59.893;2025-03-16 09:30:00.347
+6c1ce430-1f02-4a87-94d6-73c4f15ae61f;20250316;Trade;Sample Bank;Sample Location;EUR;Sample Corporation;Equity;0;1;1;96967,38;2025-03-16 06:30:44.193;2025-03-16 09:30:44.673
+f1d79ede-45f9-405b-bf60-801c81630e44;20250316;Trade;Sample Bank;Sample Location;UnknownCurrency;Sample Corporation;Derivatives;0;1;1;14148,19;2025-03-16 06:35:06.703;2025-03-16 09:35:07.437
+93c20718-6e32-4a05-aa13-307c4749544a;20250316;Order Update;Sample Bank;Sample Location;EUR;Sample Corporation;Derivatives;0;1;1;41696,24;2025-03-16 13:40:36.477;2025-03-16 16:40:37.443
+6570b152-29a2-4e40-aa2d-64652fe0569f;20250316;Settlement;Sample Bank;Sample Location;EUR;Sample Corporation;Equity;0;1;1;97000,83;2025-03-16 13:50:59.320;2025-03-16 16:50:59.607
+86d11193-3c0e-4db8-b907-36e36fd39132;20250316;Order Update;Sample Bank;Sample Location;USD;Sample Corporation;Fixed Income;0;1;1;7495,44;2025-03-16 13:54:54.207;2025-03-16 16:54:59.693
+7147da72-cd17-4129-a7a2-44073b4c79c6;20250316;Settlement;Sample Bank;Sample Location;USD;Sample Corporation;UNKNOWN;0;1;1;69433,61;2025-03-16 15:07:40.957;2025-03-16 18:07:41.360
+0b707609-4b21-4130-9702-751e0f608f2c;20250316;Trade;Sample Bank;Sample Location;UnknownCurrency;Sample Corporation;Fixed Income;0;1;1;33960,52;2025-03-16 15:57:08.933;2025-03-16 18:57:09.437
+a14bc6be-1498-4cb6-b735-410c44197790;20250316;Trade;Sample Bank;Sample Location;USD;Sample Corporation;Equity;0;1;1;75548,96;2025-03-16 16:22:35.733;2025-03-16 19:22:35.930
+ee75c2a1-6fd7-4e7b-9a89-9066c6e830ad;20250313;Settlement;Sample Bank;Sample Location;USD;Sample Corporation;UNKNOWN;0;1;1;77918,14;2025-03-13 12:52:29.847;2025-03-13 15:52:29.950
+ab85bd69-d00c-4e28-ba7b-7436b0820168;20250313;Settlement;Sample Bank;Sample Location;USD;Sample Corporation;Fixed Income;0;1;1;40875,11;2025-03-13 12:52:55.820;2025-03-13 15:52:55.907
+019757f4-dc07-4565-a67c-ac71527fd31a;20250315;Settlement;Sample Bank;Sample Location;JPY;Sample Corporation;UNKNOWN;0;1;1;5758,88;2025-03-15 09:47:17.847;2025-03-15 12:47:18.267
+ce9e4982-577c-4b53-9083-4b48b6a25e18;20250316;Trade;Sample Bank;Sample Location;EUR;Sample Corporation;Equity;0;1;1;75684,57;2025-03-16 06:31:16.597;2025-03-16 09:31:17.607
+356cf5ec-e7d5-4c58-a98a-74af9724cd0c;20250316;Settlement;Sample Bank;Sample Location;JPY;Sample Corporation;Equity;0;1;1;81424,05;2025-03-16 16:23:05.140;2025-03-16 19:23:05.233
+e0da5c54-8ab7-4572-8564-b00607f78a63;20250316;Trade;Sample Bank;Sample Location;USD;Sample Corporation;Equity;0;1;1;42713;2025-03-16 16:23:50.140;2025-03-16 19:23:50.570
+66b5df1a-e68b-420b-8b92-a76c40fd99e5;20250314;Settlement;Sample Bank;Sample Location;EUR;Sample Corporation;UNKNOWN;0;1;1;46227,62;2025-03-14 06:03:16.917;2025-03-14 09:03:17.087
+7dc33aad-1a33-42b7-80b9-e8ef635fbdf9;20250315;Settlement;Sample Bank;Sample Location;JPY;Sample Corporation;UNKNOWN;0;1;1;67941,97;2025-03-15 09:48:01.817;2025-03-15 12:48:01.970
+4b125a67-9ce7-4e7f-9937-c20ce9bc75da;20250315;Order Update;Sample Bank;Sample Location;USD;Sample Corporation;Equity;0;1;1;45253,53;2025-03-15 09:48:35.547;2025-03-15 12:48:35.793
+a7c5d821-6246-48dd-87bb-1d65f6d73992;20250316;Trade;Sample Bank;Sample Location;GBP;Sample Corporation;Fixed Income;0;1;1;52846,55;2025-03-16 06:32:44.087;2025-03-16 09:32:45.123
+1de09a70-4903-4977-add5-7a7fe685d15f;20250316;Trade;Sample Bank;Sample Location;EUR;Sample Corporation;UNKNOWN;0;1;1;7817,78;2025-03-16 06:33:56.240;2025-03-16 09:33:56.667
+0316fe92-02a6-4837-b17d-14c6756a448a;20250316;Order Update;Sample Bank;Sample Location;GBP;Sample Corporation;UNKNOWN;0;1;1;74448,24;2025-03-16 13:41:29.270;2025-03-16 16:41:29.407
+776675ec-e031-4d0e-8a66-7ef7e3ddc693;20250316;Order Update;Sample Bank;Sample Location;JPY;Sample Corporation;UNKNOWN;0;1;1;90854,37;2025-03-16 13:42:02.143;2025-03-16 16:42:02.317
+ebfad33f-c595-4ad0-95ef-4420b7a68cbb;20250316;Settlement;Sample Bank;Sample Location;USD;Sample Corporation;UNKNOWN;0;1;1;44386,83;2025-03-16 13:52:00.927;2025-03-16 16:52:01.707
+0aaf6234-a717-4ea9-b126-17b69a209e77;20250316;Trade;Sample Bank;Sample Location;USD;Sample Corporation;Equity;0;1;1;7024,61;2025-03-16 13:56:02.540;2025-03-16 16:56:03.023
+ea66b1f9-1e1f-4deb-8ab6-f21d191e839f;20250316;Order Update;Sample Bank;Sample Location;JPY;Sample Corporation;Equity;0;1;1;3486,63;2025-03-16 13:57:12.143;2025-03-16 16:57:12.327
+d52a8f6b-d6eb-4131-9a4b-b8fadf42ea7f;20250316;Trade;Sample Bank;Sample Location;JPY;Sample Corporation;Derivatives;0;1;1;64178,84;2025-03-16 13:57:29.810;2025-03-16 16:57:29.907
+efd380e4-b546-4ce6-8a3f-3d22055d8065;20250316;Trade;Sample Bank;Sample Location;UnknownCurrency;Sample Corporation;Derivatives;0;1;1;16594,6;2025-03-16 13:59:44.240;2025-03-16 16:59:45.257
+e322c69f-75b3-4dac-89a7-29b8701d775e;20250316;Settlement;Sample Bank;Sample Location;USD;Sample Corporation;UNKNOWN;0;1;1;59246,73;2025-03-16 14:01:30.707;2025-03-16 17:01:32.647
+51bf95d8-d192-4e66-b96b-3bcf183e9410;20250316;Trade;Sample Bank;Sample Location;EUR;Sample Corporation;Derivatives;0;1;1;85239,59;2025-03-16 20:19:28.623;2025-03-16 23:19:29.350
+d4b54d00-4284-41d7-80b2-a0af9767a8bd;20250316;Settlement;Sample Bank;Sample Location;JPY;Sample Corporation;Derivatives;0;1;1;9591,94;2025-03-16 19:43:54.637;2025-03-16 22:43:55.337
+08b7dbd3-b293-4598-bad3-c7223f82f2ee;20250316;Settlement;Sample Bank;Sample Location;JPY;Sample Corporation;Derivatives;0;1;1;68379,71;2025-03-16 20:18:11.017;2025-03-16 23:18:15.427
+6a0587d9-8279-4d60-a0d4-86438115a924;20250316;Settlement;Sample Bank;Sample Location;UnknownCurrency;Sample Corporation;Fixed Income;0;1;1;27477,26;2025-03-16 19:49:06.497;2025-03-16 22:49:07.063
+ec964d37-fec5-4fa2-8d15-25b49a02272b;20250316;Settlement;Sample Bank;Sample Location;GBP;Sample Corporation;Fixed Income;0;1;1;29590,61;2025-03-16 20:18:30.757;2025-03-16 23:18:31.200
+8aea2fd1-7682-44a5-9e2a-fd623c34bc9f;20250316;Order Update;Sample Bank;Sample Location;USD;Sample Corporation;Fixed Income;0;1;1;51418,37;2025-03-16 20:20:52.023;2025-03-16 23:20:52.453
+b7142fca-29a1-4f99-9c13-adb1aeac8f90;20250316;Trade;Sample Bank;Sample Location;EUR;Sample Corporation;UNKNOWN;0;1;1;44966,34;2025-03-16 20:21:23.557;2025-03-16 23:21:23.677
+bce54b86-cc52-4c79-b219-c1f82be7e72f;20250316;Settlement;Sample Bank;Sample Location;USD;Sample Corporation;Derivatives;0;1;1;22285,69;2025-03-16 20:26:53.533;2025-03-16 23:26:59.240
